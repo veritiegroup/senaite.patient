@@ -80,3 +80,6 @@ package-lock.json
 
 # senaite sources
 src/senaite.*
+
+
+.pycharmrc

@@ -56,6 +56,7 @@ IDENTIFIERS = (
     (u"national_id", _(u"National ID")),
     (u"driver_id", _(u"Driver ID")),
     (u"voter_id", _(u"Voter ID")),
+    (u"jail_number_id", _(u"Jail Number ID")),
 )
 
 # https://hl7.org/fhir/us/core/ValueSet-omb-race-category.html#expansion
